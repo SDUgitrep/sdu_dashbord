@@ -1,4 +1,4 @@
-# Smart Data Ukimet Repository
+# Smart Data Ukimet
 
 Welcome to the Smart Data Ukimet repository! 
 This repository contains information and resources related to various tools and technologies that are actively used in our company.
